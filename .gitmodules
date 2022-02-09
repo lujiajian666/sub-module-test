@@ -1,0 +1,3 @@
+[submodule "check-release-branch"]
+	path = check-release-branch
+	url = git@github.com:lujiajian666/check-release-branch.git
